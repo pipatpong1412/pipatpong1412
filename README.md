@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Junior student of Computer Science at Rajabhat Sakon Nakhon University
 ---------------------------------------------------------------------------
 
-I've been learning to code for 3 years, I have really found a passion for Deep Learning Engineer. Even though i am beginner uut my strengths are ready for learing new things for improve my skills.
+I've been learning to code for 3 years, I have really found a passion for Programming. Even though i am beginner uut my strengths are ready for learing new things for improve my skills.
 
 * 🌍  I'm based in Sakon Nakhon, Thailand
 * 🖥️  See my portfolio at [Myportfolio](http://github.com/pipatpong1412)
