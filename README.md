@@ -7,7 +7,6 @@ I am Junior student of Computer Science at Rajabhat Sakon Nakhon University
 I have really found a passion for Programming. Even though i am beginner but my strengths are ready for learing new things for improve my skills.
 
 * 🌍  I'm based in Sakon Nakhon, Thailand
-* 🖥️  See my portfolio at [Myportfolio](http://github.com/pipatpong1412)
 * ✉️  You can contact me at [pipatpong01.th@gmail.com](mailto:pipatpong01.th@gmail.com)
 
 ### Skills
